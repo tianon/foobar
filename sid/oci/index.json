@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"i386/debian:sid","org.opencontainers.image.ref.name":"sid"},"digest":"sha256:56f743c230a353b5df9273c93bd68e835daf4aae4872e0c568aa979c3139a90c","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"386","os":"linux"},"size":407}],"schemaVersion":2}

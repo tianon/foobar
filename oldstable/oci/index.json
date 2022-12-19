@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"i386/debian:oldstable","org.opencontainers.image.ref.name":"oldstable"},"digest":"sha256:389fc1312b43cfab3c9714fccec58d646ae1c8a02347edf56a8b93f148a576d8","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"386","os":"linux"},"size":407}],"schemaVersion":2}

@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"i386/debian:sid-slim","org.opencontainers.image.ref.name":"sid-slim"},"digest":"sha256:271dec084515c930dde69975569c58a539f0e3a7c34e350703ed4a145da9329c","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"386","os":"linux"},"size":407}],"schemaVersion":2}

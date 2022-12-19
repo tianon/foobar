@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"i386/debian:buster-slim","org.opencontainers.image.ref.name":"buster-slim"},"digest":"sha256:1fc9ebaa7315934a4d9806d5c9c25cdae213e30836a77f1e6f988a6ed5767adc","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"386","os":"linux"},"size":407}],"schemaVersion":2}

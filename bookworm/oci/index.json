@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"i386/debian:bookworm","org.opencontainers.image.ref.name":"bookworm"},"digest":"sha256:b7b2dc33fb0af47a005a401572cc61b2f005f022d9b81a1dc08b938870d9edab","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"386","os":"linux"},"size":407}],"schemaVersion":2}
