@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"ppc64le/debian:bullseye-slim","org.opencontainers.image.ref.name":"bullseye-slim"},"digest":"sha256:71f45d732b122ecb1eb55db0633355403600d01da1170f03e1adb4e0b181b0e6","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"ppc64le","os":"linux"},"size":407}],"schemaVersion":2}

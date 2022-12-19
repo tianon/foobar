@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"ppc64le/debian:bookworm-slim","org.opencontainers.image.ref.name":"bookworm-slim"},"digest":"sha256:b700b3e590af63d5fe774853dd582b134d0d0cc5a1f75df3d5d12e5e2468d8c2","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"ppc64le","os":"linux"},"size":407}],"schemaVersion":2}

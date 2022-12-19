@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"ppc64le/debian:testing","org.opencontainers.image.ref.name":"testing"},"digest":"sha256:7034b602a4c9336abf191ab353bece27685b895407afbf7ffa1a4944656d0e53","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"ppc64le","os":"linux"},"size":407}],"schemaVersion":2}

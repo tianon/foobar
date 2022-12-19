@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"ppc64le/debian:unstable","org.opencontainers.image.ref.name":"unstable"},"digest":"sha256:915aee4e87b0f7272df24a68e52f1fb88ca16e63478a45c9b960f972d7137ea1","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"ppc64le","os":"linux"},"size":407}],"schemaVersion":2}

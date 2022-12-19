@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"ppc64le/debian:bookworm","org.opencontainers.image.ref.name":"bookworm"},"digest":"sha256:dd8ddec712c10acea6678017619d5053a5a005f0b2b8b9387c7c49d997c9b96e","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"ppc64le","os":"linux"},"size":407}],"schemaVersion":2}

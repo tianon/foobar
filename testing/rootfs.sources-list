@@ -1,0 +1,6 @@
+# deb http://snapshot.debian.org/archive/debian/20221219T000000Z testing main
+deb http://deb.debian.org/debian testing main
+# deb http://snapshot.debian.org/archive/debian-security/20221219T000000Z testing-security main
+deb http://deb.debian.org/debian-security testing-security main
+# deb http://snapshot.debian.org/archive/debian/20221219T000000Z testing-updates main
+deb http://deb.debian.org/debian testing-updates main
