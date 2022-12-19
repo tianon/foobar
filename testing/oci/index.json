@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"amd64/debian:testing","org.opencontainers.image.ref.name":"testing"},"digest":"sha256:c5def7495b6cb911e4b481b6804ada21d1e84fb0dc99768bb6655212ecc4e8ce","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"amd64","os":"linux"},"size":407}],"schemaVersion":2}

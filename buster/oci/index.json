@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"amd64/debian:buster","org.opencontainers.image.ref.name":"buster"},"digest":"sha256:d76b0944458f7dfd0d05010183551e28d89a96a08d49bf3ee8a09109e090be0f","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"amd64","os":"linux"},"size":407}],"schemaVersion":2}
