@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"s390x/debian:bookworm-slim","org.opencontainers.image.ref.name":"bookworm-slim"},"digest":"sha256:7fef2f09a40fc6f3b99daac17b9a446b33a561ba05236a689be051b0c33cfa43","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"s390x","os":"linux"},"size":407}],"schemaVersion":2}

@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"s390x/debian:sid-slim","org.opencontainers.image.ref.name":"sid-slim"},"digest":"sha256:4eafdeb3f2f00d86822aba2c171d03a51585eaba79a9a262b4792f1deec76ca8","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"s390x","os":"linux"},"size":407}],"schemaVersion":2}

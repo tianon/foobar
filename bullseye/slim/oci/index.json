@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"s390x/debian:bullseye-slim","org.opencontainers.image.ref.name":"bullseye-slim"},"digest":"sha256:01c2fff2006ab1481d7b318ccf88caf65602e97d1f16b84fb63f8eaa44942f70","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"s390x","os":"linux"},"size":407}],"schemaVersion":2}

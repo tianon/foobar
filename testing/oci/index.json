@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"s390x/debian:testing","org.opencontainers.image.ref.name":"testing"},"digest":"sha256:61433717ec74d30c6a2b027062519d161ba83348b592d5bc961f2bf458a6ebcc","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"s390x","os":"linux"},"size":407}],"schemaVersion":2}

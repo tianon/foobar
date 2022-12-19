@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"s390x/debian:stable-slim","org.opencontainers.image.ref.name":"stable-slim"},"digest":"sha256:2ffa7c12e563130d4867181adf2e9e3c1dc956b413f7922f22c2370a29698011","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"s390x","os":"linux"},"size":407}],"schemaVersion":2}

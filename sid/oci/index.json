@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"s390x/debian:sid","org.opencontainers.image.ref.name":"sid"},"digest":"sha256:06d81199ee176a3bcbe873eb6dafdbb926abcef7450163714aa249fd79f1a721","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"s390x","os":"linux"},"size":407}],"schemaVersion":2}
