@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v7/debian:testing","org.opencontainers.image.ref.name":"testing"},"digest":"sha256:16b16db6f2849b4cd496df38261c64b18ea2591b766c743825815ac34fc5a15a","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v7"},"size":407}],"schemaVersion":2}

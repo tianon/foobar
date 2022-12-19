@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v7/debian:bookworm-slim","org.opencontainers.image.ref.name":"bookworm-slim"},"digest":"sha256:ced67bfde82a33b0c71ce60375eaa6d5f149ec75418e7736a26f728dd87e9618","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v7"},"size":407}],"schemaVersion":2}

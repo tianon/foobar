@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v7/debian:buster-slim","org.opencontainers.image.ref.name":"buster-slim"},"digest":"sha256:1a0b60970a4feb651d38c3e4c88859f5a61db52b388a0b514c07ca0e683a8f53","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v7"},"size":407}],"schemaVersion":2}

@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v7/debian:oldstable-slim","org.opencontainers.image.ref.name":"oldstable-slim"},"digest":"sha256:0fbee4a94c35c259acd451e419791a85abec44631a80e3c0122629944f299717","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v7"},"size":407}],"schemaVersion":2}

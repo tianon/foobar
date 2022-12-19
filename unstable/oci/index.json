@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v7/debian:unstable","org.opencontainers.image.ref.name":"unstable"},"digest":"sha256:eebb66b6f1a3d914d974d80eedca5db96e589d292c308a3f73665ccf032ea37b","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v7"},"size":407}],"schemaVersion":2}

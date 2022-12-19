@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v7/debian:sid-slim","org.opencontainers.image.ref.name":"sid-slim"},"digest":"sha256:d64843a00ea27845a2994d5668a7872d7025b7f3caecf9ed9cbce48717685099","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v7"},"size":407}],"schemaVersion":2}
