@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"mips64le/debian:testing-slim","org.opencontainers.image.ref.name":"testing-slim"},"digest":"sha256:01da7983153a9f2767ec704d3d03531e76eb40e01d595bd5a18937d34e3e1308","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"mips64le","os":"linux"},"size":407}],"schemaVersion":2}

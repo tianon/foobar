@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"mips64le/debian:unstable-slim","org.opencontainers.image.ref.name":"unstable-slim"},"digest":"sha256:edb3761cb0c7b33616030a47c651fb56e1c4a3135815c3baaa41ad6b0af903b7","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"mips64le","os":"linux"},"size":407}],"schemaVersion":2}

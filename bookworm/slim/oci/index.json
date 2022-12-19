@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"mips64le/debian:bookworm-slim","org.opencontainers.image.ref.name":"bookworm-slim"},"digest":"sha256:9477e0c1a13948e3cc4aa9dd23655e04c40d6d34d466731d163cb65b2c0a987f","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"mips64le","os":"linux"},"size":407}],"schemaVersion":2}
