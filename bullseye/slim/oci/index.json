@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v5/debian:bullseye-slim","org.opencontainers.image.ref.name":"bullseye-slim"},"digest":"sha256:1317abb1902af1317b1df1e72c15e04a5c484ced1c7365fce4c243649fdfeb36","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v5"},"size":407}],"schemaVersion":2}

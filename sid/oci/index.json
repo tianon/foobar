@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm32v5/debian:sid","org.opencontainers.image.ref.name":"sid"},"digest":"sha256:fd303ccf349583b097bd7290434c621966a6769e1d391d8e57a797dd995528a1","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm","os":"linux","variant":"v5"},"size":407}],"schemaVersion":2}
