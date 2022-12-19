@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm64v8/debian:bullseye","org.opencontainers.image.ref.name":"bullseye"},"digest":"sha256:b6d84b825f15d476d38399cec73fbba9c3dde31b6c479fa67fd721d887568c2f","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm64","os":"linux","variant":"v8"},"size":407}],"schemaVersion":2}

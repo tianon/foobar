@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm64v8/debian:bookworm","org.opencontainers.image.ref.name":"bookworm"},"digest":"sha256:2b13203526307d97636c0356eb2eb24ab3dea2106ff96e2d07e8e8f731ab0049","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm64","os":"linux","variant":"v8"},"size":407}],"schemaVersion":2}

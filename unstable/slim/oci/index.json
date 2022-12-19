@@ -1,0 +1,1 @@
+{"manifests":[{"annotations":{"io.containerd.image.name":"arm64v8/debian:unstable-slim","org.opencontainers.image.ref.name":"unstable-slim"},"digest":"sha256:1ac37719f062092ab123eca8dbe48a1be358ba5a52b04264fea035f47cfcd6eb","mediaType":"application/vnd.oci.image.manifest.v1+json","platform":{"architecture":"arm64","os":"linux","variant":"v8"},"size":407}],"schemaVersion":2}
