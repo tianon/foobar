@@ -1,0 +1,6 @@
+Types: deb
+# http://snapshot.debian.org/archive/debian-ports/20221219T000000Z
+URIs: http://deb.debian.org/debian-ports
+Suites: unstable unreleased
+Components: main
+Signed-By: /usr/share/keyrings/debian-ports-archive-keyring.gpg
